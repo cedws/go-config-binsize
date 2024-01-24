@@ -1,6 +1,6 @@
 # go-config-binsize
 
-Quick comparison of binary sizes with different config language dependencies. Includes HCL, JSON, TOML, YAML.
+Quick comparison of binary sizes with different config language dependencies. Includes HCL, JSON, TOML, YAML, Jsonnet.
 
 Build environment:
 
