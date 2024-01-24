@@ -13,6 +13,7 @@ Build environment:
 $ du -h **/*-darwin
 4.0M    hcl/bin/hcl-darwin
 1.7M    json/bin/json-darwin
+5.4M    jsonnet/bin/jsonnet-darwin
 1.7M    toml/bin/toml-darwin
 2.0M    yaml/bin/yaml-darwin
 ```
@@ -23,6 +24,7 @@ $ du -h **/*-darwin
 $ du -h **/*-linux
 3.8M    hcl/bin/hcl-linux
 1.6M    json/bin/json-linux
+4.7M    jsonnet/bin/jsonnet-linux
 1.6M    toml/bin/toml-linux
 1.9M    yaml/bin/yaml-linux
 ```
@@ -33,6 +35,7 @@ $ du -h **/*-linux
 $ du -h **/*-windows
 3.7M    hcl/bin/hcl-windows
 1.6M    json/bin/json-windows
+4.9M    jsonnet/bin/jsonnet-windows
 1.6M    toml/bin/toml-windows
 1.9M    yaml/bin/yaml-windows
 ```

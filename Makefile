@@ -21,3 +21,4 @@ build:
 	$(call build,json)
 	$(call build,toml)
 	$(call build,yaml)
+	$(call build,jsonnet)
